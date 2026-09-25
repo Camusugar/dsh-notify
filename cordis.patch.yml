@@ -1,0 +1,6 @@
+# @camusugar/dsh-notify — OS system notifications for pending user interactions.
+# One client row: shows a toast while the window is away and a session waits on
+# approval / question / plan review; the toast closes once answered.
+- insert:
+    - id: client-notify
+      name: '@camusugar/dsh-notify'
